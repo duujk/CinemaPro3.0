@@ -1,0 +1,218 @@
+﻿body {
+    background-color: #000000;
+}
+
+.container {
+    padding: 80px 120px;
+}
+
+.col-sm-4 img {
+    width: 255px;
+    height: 255px;
+}
+
+.thumbnail {
+    padding: 0px 10px 100px 10px;
+    border: none;
+    border-radius: 0;
+    height: 400px !important;
+}
+
+    .thumbnail img {
+        width: 100%;
+        height: 100%;
+        margin-bottom: 10px;
+    }
+
+    .thumbnail p {
+        color: #000000;
+    }
+
+.carousel-inner {
+    /*height: 1000px;*/
+}
+
+    .carousel-inner img {
+        width: 100%;
+        /*height: 800px;*/
+        margin: auto;
+    }
+
+.carousel-caption h3 {
+    color: white !important;
+}
+
+.featured {
+    width: 400px;
+    height: 300px;
+}
+
+.list-group {
+    padding: 0px 80px 0px 120px;
+}
+
+.movieContainer {
+    padding: 0px 250px;
+}
+
+.tect-center {
+    padding-left: 122px;
+    font-size: 40px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.list-group-item {
+    font-size: xx-large;
+    font-weight: 700;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+#programme {
+    background-color: #000000;
+}
+
+.btn {
+    box-shadow: 10px 10px 5px #888888;
+}
+
+.text-center {
+    color: white;
+    font-size: 18px;
+}
+
+    .text-center h3 {
+        font-size: 28px;
+    }
+
+.col-md-4 p {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+div.container:nth-child(5) h3 {
+    font-size: 25px;
+}
+
+#googleMap {
+    width: 100%;
+    height: 400px;
+}
+
+html > /**/ body .logo {
+    height: 45px !important;
+    width: 145px !important;
+    padding-top: 5px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    background-color: #282841;
+    border: 0px !important;
+    letter-spacing: 4px;
+    opacity: 0.9;
+}
+
+.navbar-nav li a:hover {
+    color: #ffffff !important;
+}
+
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+}
+
+.open .dropdown-toggle {
+    color: #fff;
+    background-color: #555 !important;
+}
+
+.dropdown-menu li a {
+    color: #000 !important;
+}
+
+    .dropdown-menu li a:hover {
+        background-color: red !important;
+    }
+footer {
+    background-color: #282841;
+    color: #ffffff;
+    padding: 32px;
+    
+}
+.up-arrow {
+    padding-top: 20px;
+}
+.footer a {
+    color: #808080;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+/*modal styles*/
+.front{
+    width: 300px; 
+    margin: 5px 32px 45px 32px;
+    background-color: #29292c;
+    color: #666;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+}
+.booking-details {
+    float: right;
+    position:relative;
+    width:200px;
+    height:450px;
+}
+.booking-details h3{
+    margin:5px 5px 0px 0px;
+    font-size:16px;
+}
+.booking-details p{
+    line-height: 26px;
+    font-size:16px;
+    color: #999;
+}
+.booking-details p span{
+    color:#666;
+}
+
+.modal-header, h4 .close {
+    background-color: #333;
+    color: #fff !important;
+    text-align: center;
+    font-size: 30px;
+}
+.modal-header, modal-body {
+    padding: 40px, 50px;
+}
+
+
+
+/*phone styles*/
+@media (max-width: 600px) {
+    .carousel-caption {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+    }
+    .container{padding: 0px !important;
+    }
+    .thumbnail {
+        height: auto !important;
+        width: 200px;
+        position: relative;
+        float: right;
+    }
+    .col-sm-4 {
+        padding-right: 25%;
+    }
+    .col-sm-3 {
+        padding-left: 205%;
+    }
+}

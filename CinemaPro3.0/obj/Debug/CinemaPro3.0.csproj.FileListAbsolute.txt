@@ -1,0 +1,66 @@
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\ApplicationInsights.config
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\csc.exe
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\System.Collections.Immutable.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\vbc.exe
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\VBCSCompiler.exe
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\VBCSCompiler.exe.config
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.dll.config
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.pdb
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Web.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.WindowsServer.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.ApplicationInsights.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Web.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.WindowsServer.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.ApplicationInsights.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.csprojResolveAssemblyReference.cache
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.dll
+c:\users\damir\documents\visual studio 2015\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.pdb
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\ApplicationInsights.config
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\csc.exe
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\vbc.exe
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.dll.config
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\CinemaPro3.0.pdb
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Web.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.Web.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.csprojResolveAssemblyReference.cache
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.dll
+C:\Users\Damir\Desktop\Projects\CinemaPro3.0\CinemaPro3.0\obj\Debug\CinemaPro3.0.pdb
